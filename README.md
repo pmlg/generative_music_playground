@@ -6,3 +6,6 @@ https://magenta.tensorflow.org/demos/colab/
 
 Option 2: MuseNet
 https://openai.com/blog/musenet/
+
+Option 3: MelNet (codes under construstion)
+Samples: https://audio-samples.github.io/
