@@ -1,4 +1,4 @@
-# generative_music_playground
+# Generative Music Playground, Studio 001, State Library of WA
 Getting started
 
 <b>Option 1: MuseNet</b>
