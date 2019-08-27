@@ -9,7 +9,10 @@ You can download free MIDI files from sites like freemidi.org
 or make your own MIDI file from scratch on onlinesequencer.net
 
 <b>Option 2: Google Magenta (Colab notebooks)</b>
+
 https://magenta.tensorflow.org/demos/colab/
+
+https://colab.research.google.com/notebooks/magenta/hello_magenta/hello_magenta.ipynb
 
 GANSynth
 
