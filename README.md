@@ -40,3 +40,5 @@ MelNet (codes under construction)
 
 Samples: https://audio-samples.github.io/
 
+PythonInMusic: https://wiki.python.org/moin/PythonInMusic
+
