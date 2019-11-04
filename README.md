@@ -54,4 +54,5 @@ Samples: https://audio-samples.github.io/
 <b>Other resources:</b>
 
 PythonInMusic: https://wiki.python.org/moin/PythonInMusic
+
 List of articles related to deep learning applied to music: https://github.com/ybayle/awesome-deep-learning-music
