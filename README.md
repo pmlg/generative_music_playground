@@ -1,4 +1,9 @@
 # Generative Music Playground, Studio 001, State Library of WA
+This is a casual meetup for anyone who wants to explore making music with machine learning. We meet up at Studio 001 on Level 1 of the State Library of WA every Monday (except public holidays) from 5.30-7.30pm. 
+
+Keep updated on https://www.meetup.com/Perth-Machine-Learning-Group/events
+
+
 Getting started
 
 <b>Option 1: To compose melodies:</b>
@@ -47,12 +52,14 @@ https://magenta.tensorflow.org/demos/web/
 
 https://magenta.tensorflow.org/studio
 
-MelNet (codes under construction)
 
-Samples: https://audio-samples.github.io/
 
 <b>Other resources:</b>
 
 PythonInMusic: https://wiki.python.org/moin/PythonInMusic
 
 List of articles related to deep learning applied to music: https://github.com/ybayle/awesome-deep-learning-music
+
+MelNet (codes under construction)
+
+Samples: https://audio-samples.github.io/
