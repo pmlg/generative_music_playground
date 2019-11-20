@@ -10,6 +10,7 @@ Getting Started|   |   |   |   |   |
 [Google Magenta](https://magenta.tensorflow.org/)|Google Magenta's homepage||[Python](https://github.com/tensorflow/magenta) [Javascript](https://github.com/tensorflow/magenta-js)||Everyone,coders|
 [Google Magenta web demos](https://magenta.tensorflow.org/demos/web/)|Collection of interactive web demos for music generation||||Non-coders|
 **Generating MIDI(.mid files)**
+[Hello Magenta](https://colab.research.google.com/notebooks/magenta/hello_magenta/hello_magenta.ipynb)|Introduction to Google Magenta - includes MelodyRNN and MusicVAE||[Google Colab](https://colab.research.google.com/notebooks/magenta/hello_magenta/hello_magenta.ipynb) [Magenta.js](https://hello-magenta.glitch.me/)||Coders|
 [MuseNet](https://openai.com/blog/musenet)|Generate new melodies(MIDI file). Choose a style of music, choose a starting song (or upload your own MIDI), generate a continuation of that song, and download the MIDI |[Audio](https://soundcloud.com/openai_audio/sets/musenet)|||Non-coders|
 [Piano Transformer](https://magenta.tensorflow.org/piano-transformer)|Generate piano MIDI notes from scratch or from a starting MIDI file|[Audio](https://magenta.tensorflow.org/assets/piano_transformer/clair_de_lune_continuation.mp3)|[Google Colab](https://colab.research.google.com/notebooks/magenta/piano_transformer/piano_transformer.ipynb)||Non-coders|
 [FreeMIDI](https://freemidi.org/)|Download free MIDI files here||||Non-coders,non-musicians|
@@ -18,7 +19,6 @@ Getting Started|   |   |   |   |   |
 **Generating Audio(.wav files)**
 [MusicVAE](https://magenta.tensorflow.org/music-vae)|Generate audio, interpolate between 2 different melodies or drum beats |[Audio](https://magenta.tensorflow.org/assets/music_vae/mel_2bar-b2m.mp3)|[Google Colab](https://colab.research.google.com/notebooks/magenta/music_vae/music_vae.ipynb)|[Paper](https://arxiv.org/abs/1806.00195)|Non-coders|
 [GANSynth](https://magenta.tensorflow.org/gansynth)|Upload a MIDI file,download an audio file of the interpolation between different instruments|[Audio](https://storage.googleapis.com/magentadata/papers/gansynth/index.html)|[Google Colab](https://colab.research.google.com/notebooks/magenta/gansynth/gansynth_demo.ipynb)|[Paper](https://openreview.net/forum?id=H1xQVn09FX)|Non-coders|
-[Hello Magenta](https://colab.research.google.com/notebooks/magenta/hello_magenta/hello_magenta.ipynb)|Introduction to Google Magenta - includes MelodyRNN and MusicVAE||[Google Colab](https://colab.research.google.com/notebooks/magenta/hello_magenta/hello_magenta.ipynb)||Non-coders|
 **Other resources**||||||
 [Talks/presentations by Google Magenta](https://magenta.tensorflow.org/talks)|||||
 [Python In Music](https://wiki.python.org/moin/PythonInMusic)|List of music software written in Python,music software supporting Python,music programming in Python, etc.|||||
