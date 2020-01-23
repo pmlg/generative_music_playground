@@ -23,6 +23,7 @@ Getting Started|   |   |   |   |   |
 [Talks/presentations by Google Magenta](https://magenta.tensorflow.org/talks)|||||
 [Python In Music](https://wiki.python.org/moin/PythonInMusic)|List of music software written in Python,music software supporting Python,music programming in Python, etc.|||||
 [Deep Learning papers in music](https://github.com/ybayle/awesome-deep-learning-music)|List of articles related to deep learning applied to music|||||
+[Deep Learning with audio thread - Fast.AI forum](https://forums.fast.ai/t/deep-learning-with-audio-thread/38123)|List of links related to deep learning applied to audio|||||
 [International Society for Music Information Retrieval](https://www.ismir.net/resources/)|Links to datasets, educational material, tutorials, software related to music information retrieval|||||
 [Spleeter](https://deezer.io/releasing-spleeter-deezer-r-d-source-separation-engine-2b88985e797e)|Source separation library. Upload an audio file, isolate vocals or instrumental||[Github](https://github.com/deezer/spleeter)||
 [MelNet](https://audio-samples.github.io/)|||[codes under construction](https://audio-samples.github.io/)|||
