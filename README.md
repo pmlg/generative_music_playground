@@ -1,5 +1,5 @@
-# Generative Music Playground, Studio 001, State Library of WA
-(Discontinued as of January 2020) This is a casual meetup for anyone who wants to explore making music with machine learning. We meet up at Studio 001 on Level 1 of the State Library of WA every Monday (except public holidays) from 5.30-7.30pm. 
+# Generative Music Playground
+This is a list of links for anyone who wants to explore making music with machine learning. 
 
 Check https://www.meetup.com/Perth-Machine-Learning-Group/events for updates on meetups
 
@@ -12,7 +12,7 @@ Getting Started|   |   |   |   |   |
 **Generating MIDI(.mid files)**
 [Hello Magenta](https://colab.research.google.com/notebooks/magenta/hello_magenta/hello_magenta.ipynb)|Introduction to Google Magenta - includes MelodyRNN and MusicVAE||[Google Colab](https://colab.research.google.com/notebooks/magenta/hello_magenta/hello_magenta.ipynb) [Magenta.js](https://hello-magenta.glitch.me/)||Coders|
 [**MuseNet**](https://openai.com/blog/musenet)|Generate new melodies(MIDI file). Scroll down to "Compose in the style of Chopin", click on "Show advanced settings". Choose a style of music, choose a starting song (or upload your own MIDI), generate a continuation of that song, and download the MIDI |[Audio](https://soundcloud.com/openai_audio/sets/musenet)|||Non-coders **(Try this first)**|
-[**Piano Transformer**](https://magenta.tensorflow.org/piano-transformer)|Generate piano MIDI notes from scratch or from a starting MIDI file|[Audio](https://magenta.tensorflow.org/assets/piano_transformer/clair_de_lune_continuation.mp3)|[Google Colab](https://colab.research.google.com/notebooks/magenta/piano_transformer/piano_transformer.ipynb)||Non-coders **(Try this second)**|
+[**Piano Transformer**](https://magenta.tensorflow.org/piano-transformer)|Generate piano MIDI notes from scratch or from a starting MIDI file|[Audio](https://magenta.tensorflow.org/assets/piano_transformer/clair_de_lune_continuation.mp3)|[Google Colab](https://colab.research.google.com/notebooks/magenta/piano_transformer/piano_transformer.ipynb)||Non-coders **(Try this next)**|
 [FreeMIDI](https://freemidi.org/)|Download free MIDI files here||||Non-coders,non-musicians|
 [Online Sequencer](https://onlinesequencer.net/)|Make your own MIDI file from scratch||||Non-coders,non-musicians|
 [Magenta Studio](https://magenta.tensorflow.org/studio)|Compose multitrack melodies/chords in Ableton Live (music production software)||||Ableton users, music producers|
