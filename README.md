@@ -1,5 +1,5 @@
 # Generative Music Playground, Studio 001, State Library of WA
-This is a casual meetup for anyone who wants to explore making music with machine learning. We meet up at Studio 001 on Level 1 of the State Library of WA every Monday (except public holidays) from 5.30-7.30pm. 
+(Discontinued as of January 2020) This is a casual meetup for anyone who wants to explore making music with machine learning. We meet up at Studio 001 on Level 1 of the State Library of WA every Monday (except public holidays) from 5.30-7.30pm. 
 
 Check https://www.meetup.com/Perth-Machine-Learning-Group/events for updates on meetups
 
