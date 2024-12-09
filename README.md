@@ -9,6 +9,7 @@ Check https://www.meetup.com/Perth-Machine-Learning-Group/events for updates on 
 Recommended|   |   |   |   |   |   |
 ---------------|---|---|---|---|---|---|
 **Name**                 |**Description**|**Demo**|**Code**|**Paper**|**Suitable for**|**Released**|
+[Foundation Models for Music: A Survey]([https://arxiv.org/abs/2408.14340])|Review paper on the state-of-the-art foundation models for music|||[Paper](https://arxiv.org/pdf/2408.14340)||August 2024|
 **Generating Audio(.wav or .mp3 files)**
 [**MusicFX (Google)**](https://aitestkitchen.withgoogle.com/tools/music-fx)|Generate music from text|[Blog](https://google-research.github.io/seanet/musiclm/musicfx/)<br><br>[Audio](https://google-research.github.io/seanet/musiclm/examples/)<br></br>[Youtube](https://www.youtube.com/watch?v=g6FRkAbZPQo)||[Paper](https://arxiv.org/abs/2301.11325)|Non-coders|December 2023|
 [**Stable Audio (Stability AI)**](https://stability.ai/stableaudio)|Generate music and sound effects from text.|||[Research Blog](https://stability.ai/research/stable-audio-efficient-timing-latent-diffusion)<br><br>[Github](https://github.com/Stability-AI/stable-audio-tools)<br><br>|Non-coders|September 2023|
